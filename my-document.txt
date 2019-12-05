@@ -1,3 +1,5 @@
 This is my new file. This is the first line. 
 
 This is my second line. It is great!
+
+This is my third line! Wooohoo!
